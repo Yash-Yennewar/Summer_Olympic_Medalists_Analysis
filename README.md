@@ -32,13 +32,13 @@ and gender participation using **Python data analysis libraries**.
 
 -   **Source:** Summer Olympic Medallists (1896--2008)
 -   **Key Columns:**
-    -   Edition -- Olympic year\
-    -   City -- Host city\
-    -   Sport -- Sport category\
-    -   Discipline -- Discipline within sport\
-    -   Athlete -- Athlete name\
-    -   Gender -- Male/Female\
-    -   NOC -- Country code\
+    -   Edition -- Olympic year
+    -   City -- Host city
+    -   Sport -- Sport category
+    -   Discipline -- Discipline within sport
+    -   Athlete -- Athlete name
+    -   Gender -- Male/Female
+    -   NOC -- Country code
     -   Medal -- Gold / Silver / Bronze
 
 ---
